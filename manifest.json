@@ -4,7 +4,7 @@
   "name": "Name",
   "scope": "/",
   "display": "standalone",
-  "start_url": "https://jomarkoff.github.io/",
+  "start_url": "/index.html",
   "short_name": "Short Name",
   "description": "",
   "orientation": "any",
