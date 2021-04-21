@@ -1,22 +1,16 @@
 {
-  "dir": "ltr",
-  "lang": "Eng",
-  "name": "Name",
-  "scope": "/",
-  "display": "standalone",
-  "start_url": "/index.html",
-  "short_name": "Short Name",
-  "description": "",
-  "orientation": "any",
-  "background_color": "#fafafa",
-  "theme_color": "#fafafa",
-  "related_applications": [],
-  "prefer_related_applications": false,
+  "name": "Hello World",
+  "short_name": "Hello",
   "icons": [
     {
       "src": "/img.png",
       "sizes": "48x48",
       "type": "image/png"
     }
-  ]
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
 }
